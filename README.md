@@ -1,6 +1,6 @@
-# 🩸 BLEeding
+# 🩸 Nebesnaya
 
-BLEeding is a tool that allows you to jam Discord users and (in the future updates) servers. It can be used to spam message requests or ping requests. It supports Linux, macOS, Windows
+Nebesnaya is a tool that allows you to jam Discord users and (in the future updates) servers. It can be used to spam message requests or ping requests. It supports Linux, macOS, Windows
 
 **Key Features:**
 - 🔵 **Load multiple bot tokens**: Works with java by going and modifying the `tokens.json` script with your own discord BOT(app)
